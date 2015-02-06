@@ -12,6 +12,7 @@ public class Game {
 		hero.show();
 		hero.fight();
 		
+		//instantiate super hero and calls show powers method to show randomly generated power
 		SuperHero superHero = new SuperHero("Superman");
 		superHero.showPowers();
 

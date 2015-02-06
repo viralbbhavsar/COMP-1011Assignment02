@@ -4,7 +4,7 @@
 
 /**
  * @author Viral
- *@version 1.2
+ *@version 1.5
  */
 public class Hero {
 	
